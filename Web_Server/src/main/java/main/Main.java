@@ -12,6 +12,7 @@ import servlets.AllRequestsServlet;
  *         <p>
  *         Описание курса и лицензия: https://github.com/vitaly-chibrikov/stepic_java_webserver
  */
+
 public class Main {
     public static void main(String[] args) throws Exception {
         AllRequestsServlet allRequestsServlet = new AllRequestsServlet();

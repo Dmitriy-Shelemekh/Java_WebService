@@ -17,6 +17,7 @@ import java.util.Map;
  *         <p>
  *         Описание курса и лицензия: https://github.com/vitaly-chibrikov/stepic_java_webserver
  */
+
 public class PageGenerator {
     private static final String HTML_DIR = "templates";
 
