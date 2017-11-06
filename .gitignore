@@ -1,4 +1,5 @@
-.gitignore
-.idea/
-#Java_WebService.iml
-#src/
+
+/Authorization/.idea/
+/Web_Server/.idea/
+/.idea/
+/Web_Server/target/

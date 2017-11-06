@@ -19,9 +19,9 @@
                     <target>1.8</target>
                 </configuration>
             </plugin>
-
             <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>
+
                 <configuration>
                     <descriptorRefs>
                         <descriptorRef>jar-with-dependencies</descriptorRef>
@@ -57,5 +57,7 @@
             <artifactId>jetty-webapp</artifactId>
             <version>9.3.0.M0</version>
         </dependency>
+
     </dependencies>
+
 </project>
